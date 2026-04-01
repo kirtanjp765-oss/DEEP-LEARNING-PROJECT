@@ -72,3 +72,6 @@ Visualization of results, including metrics, plots, and example predictions.
 This task not only demonstrates technical skills in deep learning but also emphasizes the importance of data preprocessing, model evaluation, and interpretability, which are crucial for real-world applications in AI.
 
 *OUTPUT* :
+<img width="1684" height="554" alt="Image" src="https://github.com/user-attachments/assets/9360d506-8f18-4bfa-a822-16ff006d60a0" />
+
+<img width="1731" height="635" alt="Image" src="https://github.com/user-attachments/assets/2d201937-4572-4979-95f2-21fd43d51187" />
